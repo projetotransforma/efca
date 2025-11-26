@@ -74,15 +74,14 @@ body, .stApp, .block-container, label, p, h1, h2, h3, h4, h5, h6 {color: black !
 </style>
 """, unsafe_allow_html=True)
 
-# ------------------------------ # Banner com logo # ------------------------------
+# ------------------------------ # Banner com logo (ajustado) # ------------------------------
 banner_html = """
 <div style="width:100%; height:300px; position:relative; background-color:#f1e3d8;">
-<img src="https://raw.githubusercontent.com/projetotransforma/app.py/main/logotransforma.png"
-     style="position:absolute; top:45%; left:50%; transform:translate(-50%, -45%); height:220px;">
+  <img src="https://raw.githubusercontent.com/projetotransforma/efca/219dc59bd98b35cf4a7591bedcec773f7080a23e/logotransforma.png"
+       style="position:absolute; top:45%; left:50%; transform:translate(-50%, -45%); height:220px; max-width:90%;">
 </div>
 """
-components.html(banner_html, height=260)
-
+components.html(banner_html, height=300)
 
 # ------------------------------ # Título, referência e crédito # ------------------------------
 st.title("Escala EFCA: Fenótipo de Comportamento Alimentar")
