@@ -95,7 +95,8 @@ st.markdown("""
 
 st.markdown("""
 <p><strong>Criado por:</strong>
-<a href="https://www.instagram.com/leticiaendocrino/" target="_blank">@leticiaendocrino</a></p>
+<a href="https://www.instagram.com/leticiaendocrino/" target="_blank">@leticiaendocrino</a> e
+<a href="https://www.instagram.com/paulamagalhaesnutri/" target="_blank">@paulamagalhaesnutri</a></p>
 """, unsafe_allow_html=True)
 
 st.markdown("""
