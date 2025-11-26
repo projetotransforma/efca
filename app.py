@@ -17,8 +17,8 @@ st.markdown("""
 
 [data-testid="stAppViewContainer"] {background-color: #ffebd9 !important;}
 [data-testid="stBlock"] > div {background-color: #ffebd9 !important;}
-.block-container {background-color: #f1e3d8 !important; padding: 2rem 3rem; border-radius: 12px;}
-[data-testid="stSidebar"] {background-color: #f1e3d8 !important;}
+.block-container {background-color: #ffebd9 !important; padding: 2rem 3rem; border-radius: 12px;}
+[data-testid="stSidebar"] {background-color: #ffebd9 !important;}
 
 h1 {margin-top: 0.5rem;}
 body, .stApp, .block-container, label, p, h1, h2, h3, h4, h5, h6 {color: black !important;}
