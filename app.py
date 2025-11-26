@@ -15,8 +15,8 @@ st.set_page_config(
 st.markdown("""
 <style>
 
-[data-testid="stAppViewContainer"] {background-color: #f1e3d8 !important;}
-[data-testid="stBlock"] > div {background-color: #f1e3d8 !important;}
+[data-testid="stAppViewContainer"] {background-color: #ffebd9 !important;}
+[data-testid="stBlock"] > div {background-color: #ffebd9 !important;}
 .block-container {background-color: #f1e3d8 !important; padding: 2rem 3rem; border-radius: 12px;}
 [data-testid="stSidebar"] {background-color: #f1e3d8 !important;}
 
